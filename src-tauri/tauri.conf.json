@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "nightly test",
+        "title": "weaver test",
         "width": 800,
         "height": 600,
         "resizable": true,
